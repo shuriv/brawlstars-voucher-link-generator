@@ -18,3 +18,6 @@ f = open("links.txt", "w")
 f.write(r)
 f.close()
 del f
+
+#that's a fork made by shur1v.
+#это форк сделанный shur1v.
