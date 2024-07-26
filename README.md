@@ -7,4 +7,5 @@
  ## How to use
  - python main.py
  
- ![screenshot](screenshot.png?raw=true)
+ ![изображение](https://github.com/user-attachments/assets/0da90bde-fbf1-41d6-a243-48cb383f1111)
+
